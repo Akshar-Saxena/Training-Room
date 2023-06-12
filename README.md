@@ -1,1 +1,1 @@
-This Website is made for a fitness and practice purpose. Kindly ensure you this content for legal purpose and education only. This is site is being hosted as https://trainingroom.netlify.app. Made by - Akshar Saxena
+This Website is made for a fitness and practice purpose. Kindly ensure you use this content for legal purpose and education only. This is site is being hosted as https://trainingroom.netlify.app. Made by - Akshar Saxena
